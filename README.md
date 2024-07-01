@@ -1,4 +1,4 @@
-I have prepared a comprehensive report for Atliq Hardwares.
+Prepared a comprehensive report for Atliq Hardwares.
 
 **AtliQ Hardwares Business Model**: Atliq Hardwares is a leading hardware company specializing in the global distribution of high-quality peripherals, including PCs, Mouse, Keyboards, and Printers, and the organization's commitment to excellence ensures that clients around the world receive reliable and cutting-edge technology solutions tailored to their needs.
 
