@@ -21,3 +21,7 @@ Prepared a comprehensive report for Atliq Hardwares.
 - [ ] Designing user-centric reports with empathy in mind.
 - [ ] Optimization of report generation through meticulous fine-tuning.
 - [ ] Developing a systematic approach to devising a report building plan.
+
+**Reports:**
+- Customer Performance(https://github.com/Maheendhar/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+- 
